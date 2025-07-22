@@ -1,3 +1,5 @@
+[![License: Open Font-1.1](https://img.shields.io/badge/License-OFL_1.1-lightgreen.svg)](https://opensource.org/licenses/OFL-1.1)
+
 # 🔤 Adaxi
 
 Adaxi was collectively designed by a team of designers and non-designers during ["Bari Città Aperta"](https://baricittaperta.xyz) XYZ workshop by [La Scuola Open Source](https://lascuolaopensource.xyz), 8–17 July 2025, and released under the SIL Open Font License 1.1 in 2025.
@@ -26,6 +28,8 @@ Some letters might still look a bit odd, and the spacing or kerning might not be
 
 Adaxi is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at http://scripts.sil.org/OFL
+
+
 
 ## 📂 Repository Layout
 
