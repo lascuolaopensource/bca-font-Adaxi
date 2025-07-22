@@ -27,6 +27,8 @@ Some letters might still look a bit odd, and the spacing or kerning might not be
 Adaxi is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at http://scripts.sil.org/OFL
 
+[![License: Open Font-1.1](https://img.shields.io/badge/License-OFL_1.1-lightgreen.svg)](https://opensource.org/licenses/OFL-1.1)
+
 ## 📂 Repository Layout
 
 This font repository follows the Unified Font Repository v2.0,
