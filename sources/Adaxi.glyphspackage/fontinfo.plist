@@ -1,0 +1,808 @@
+{
+.appVersion = "3420";
+.formatVersion = 3;
+date = "2025-07-15 10:23:25 +0000";
+familyName = ADAXI;
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature ss01;
+feature ss02;
+feature ss03;
+feature ss04;
+feature ss05;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "sub A by A.ss01;
+sub B by B.ss01;
+sub C by C.ss01;
+sub D by D.ss01;
+sub E by E.ss01;
+sub F by F.ss01;
+sub G by G.ss01;
+sub H by H.ss01;
+sub I by I.ss01;
+sub J by J.ss01;
+sub K by K.ss01;
+sub L by L.ss01;
+sub M by M.ss01;
+sub N by N.ss01;
+sub O by O.ss01;
+sub P by P.ss01;
+sub Q by Q.ss01;
+sub R by R.ss01;
+sub S by S.ss01;
+sub T by T.ss01;
+sub U by U.ss01;
+sub V by V.ss01;
+sub W by W.ss01;
+sub X by X.ss01;
+sub Y by Y.ss01;
+sub Z by Z.ss01;
+sub a by a.ss01;
+sub b by b.ss01;
+sub c by c.ss01;
+sub d by d.ss01;
+sub e by e.ss01;
+sub f by f.ss01;
+sub g by g.ss01;
+sub k by k.ss01;
+sub l by l.ss01;
+sub m by m.ss01;
+sub n by n.ss01;
+sub o by o.ss01;
+sub p by p.ss01;
+sub q by q.ss01;
+sub r by r.ss01;
+sub t by t.ss01;
+sub w by w.ss01;
+sub x by x.ss01;
+sub y by y.ss01;
+sub z by z.ss01;
+sub zero by zero.ss01;
+sub two by two.ss01;
+sub six by six.ss01;
+sub seven by seven.ss01;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss01;
+},
+{
+automatic = 1;
+code = "sub A by A.ss02;
+sub B by B.ss02;
+sub C by C.ss02;
+sub E by E.ss02;
+sub F by F.ss02;
+sub H by H.ss02;
+sub I by I.ss02;
+sub M by M.ss02;
+sub N by N.ss02;
+sub O by O.ss02;
+sub Q by Q.ss02;
+sub R by R.ss02;
+sub U by U.ss02;
+sub V by V.ss02;
+sub X by X.ss02;
+sub Y by Y.ss02;
+sub Z by Z.ss02;
+sub a by a.ss02;
+sub b by b.ss02;
+sub c by c.ss02;
+sub e by e.ss02;
+sub g by g.ss02;
+sub k by k.ss02;
+sub l by l.ss02;
+sub m by m.ss02;
+sub n by n.ss02;
+sub r by r.ss02;
+sub x by x.ss02;
+sub y by y.ss02;
+sub z by z.ss02;
+sub zero by zero.ss02;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss02;
+},
+{
+automatic = 1;
+code = "sub A by A.ss03;
+sub C by C.ss03;
+sub E by E.ss03;
+sub F by F.ss03;
+sub H by H.ss03;
+sub I by I.ss03;
+sub M by M.ss03;
+sub Q by Q.ss03;
+sub R by R.ss03;
+sub X by X.ss03;
+sub a by a.ss03;
+sub b by b.ss03;
+sub c by c.ss03;
+sub e by e.ss03;
+sub g by g.ss03;
+sub k by k.ss03;
+sub m by m.ss03;
+sub n by n.ss03;
+sub x by x.ss03;
+sub z by z.ss03;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss03;
+},
+{
+automatic = 1;
+code = "sub A by A.ss04;
+sub C by C.ss04;
+sub E by E.ss04;
+sub I by I.ss04;
+sub M by M.ss04;
+sub Q by Q.ss04;
+sub T by T.ss04;
+sub X by X.ss04;
+sub a by a.ss04;
+sub e by e.ss04;
+sub g by g.ss04;
+sub m by m.ss04;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss04;
+},
+{
+automatic = 1;
+code = "sub A by A.ss05;
+sub C by C.ss05;
+sub E by E.ss05;
+sub g by g.ss05;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss05;
+}
+);
+fontMaster = (
+{
+guides = (
+{
+pos = (190,-475);
+},
+{
+angle = 180;
+pos = (190,1140);
+},
+{
+angle = 180;
+pos = (1167,1520);
+}
+);
+id = m01;
+metricValues = (
+{
+pos = 1600;
+},
+{
+pos = 1400;
+},
+{
+pos = 1000;
+},
+{
+},
+{
+pos = -400;
+},
+{
+}
+);
+name = PX;
+userData = {
+GSCornerRadius = 85;
+};
+}
+);
+kerningLTR = {
+m01 = {
+A = {
+C = -90;
+D = -30;
+F = 0;
+G = -110;
+T = -270;
+V = -260;
+c = -30;
+d = -10;
+t = -190;
+};
+A.ss01 = {
+D.ss01 = 40;
+N.ss01 = 20;
+R.ss01 = 30;
+d.ss01 = 0;
+};
+A.ss02 = {
+C.ss02 = -20;
+D = 20;
+R.ss02 = 0;
+c.ss02 = -50;
+};
+A.ss03 = {
+C.ss03 = 0;
+R.ss03 = -200;
+T = -30;
+c.ss03 = -100;
+d = -10;
+};
+A.ss04 = {
+D = 10;
+N = 20;
+R = 40;
+T.ss04 = -100;
+};
+A.ss05 = {
+C.ss05 = 10;
+D = 60;
+I = 40;
+L = 30;
+N = 50;
+R = 60;
+d = 10;
+};
+B = {
+o = 0;
+};
+B.ss01 = {
+o.ss01 = 10;
+};
+C = {
+I = 60;
+R = 30;
+S = 30;
+};
+C.ss02 = {
+I.ss02 = -180;
+S = 30;
+};
+C.ss03 = {
+S = 20;
+};
+C.ss04 = {
+A.ss04 = -80;
+};
+C.ss05 = {
+S = 10;
+};
+D = {
+A = -110;
+A.ss02 = -40;
+A.ss03 = -100;
+A.ss05 = 0;
+O = 20;
+};
+D.ss01 = {
+A.ss01 = -200;
+};
+E.ss03 = {
+F.ss03 = 40;
+M.ss03 = 10;
+};
+F = {
+A = -190;
+r = -10;
+};
+F.ss03 = {
+H.ss03 = 40;
+r = 60;
+};
+G = {
+I = 60;
+L = 10;
+};
+H = {
+I = 100;
+};
+H.ss02 = {
+I.ss02 = -150;
+};
+H.ss03 = {
+I.ss03 = 30;
+};
+I = {
+C = 130;
+E.ss05 = 50;
+N = 40;
+O = 80;
+P = 120;
+R = 50;
+U = 60;
+m = 40;
+n = 50;
+};
+I.ss01 = {
+C.ss01 = 10;
+P.ss01 = 10;
+};
+I.ss02 = {
+C.ss02 = -40;
+M.ss02 = -20;
+P = 0;
+n.ss02 = -200;
+};
+I.ss03 = {
+C.ss03 = 50;
+M.ss03 = 40;
+N = 10;
+P = 60;
+m.ss03 = 30;
+n.ss03 = 30;
+};
+I.ss04 = {
+C.ss04 = -10;
+};
+L = {
+quotesingle = -380;
+};
+M = {
+I = 120;
+};
+M.ss03 = {
+Q.ss03 = 60;
+o = 20;
+};
+N = {
+D = 40;
+I.ss03 = 30;
+O = 20;
+T = 0;
+T.ss04 = -10;
+quotesingle = -10;
+};
+O = {
+F = 40;
+F.ss03 = 50;
+N = 0;
+R = 20;
+R.ss03 = -20;
+};
+P = {
+A = -250;
+A.ss02 = -200;
+A.ss03 = -120;
+A.ss04 = -70;
+};
+P.ss01 = {
+A.ss01 = -150;
+};
+Q.ss03 = {
+R.ss03 = -70;
+};
+R = {
+O = 40;
+i = -30;
+};
+R.ss01 = {
+T.ss01 = -30;
+};
+R.ss02 = {
+T.ss04 = -50;
+};
+R.ss03 = {
+E.ss03 = -20;
+R.ss03 = -80;
+T.ss04 = -90;
+X.ss03 = -60;
+};
+S = {
+Igrave = 50;
+e = 0;
+};
+S.ss01 = {
+Igrave = 10;
+t.ss01 = -10;
+};
+T = {
+A = -270;
+A.ss03 = -150;
+I = 20;
+O = -80;
+T = -20;
+r = -95;
+};
+T.ss01 = {
+I.ss01 = -180;
+r.ss01 = -190;
+};
+T.ss04 = {
+A.ss04 = -240;
+I.ss02 = -310;
+I.ss03 = 20;
+I.ss04 = -10;
+X.ss04 = -20;
+};
+U = {
+N = 100;
+};
+U.ss02 = {
+V.ss02 = -50;
+};
+V = {
+A = -320;
+O = -50;
+};
+V.ss02 = {
+X.ss02 = -20;
+};
+W = {
+A.ss03 = -240;
+A.ss04 = -170;
+};
+X.ss01 = {
+Y.ss01 = -120;
+};
+X.ss04 = {
+A.ss05 = -30;
+};
+Y.ss01 = {
+Z.ss01 = -20;
+};
+Z.ss01 = {
+A.ss02 = -50;
+};
+a = {
+b = 10;
+c = 0;
+g = 0;
+n = 10;
+t = -90;
+v = -140;
+};
+a.ss01 = {
+n.ss01 = -20;
+s = -50;
+t.ss01 = -140;
+y.ss01 = -170;
+};
+a.ss02 = {
+c.ss02 = 10;
+};
+a.ss03 = {
+b.ss03 = -40;
+c.ss03 = -10;
+t = -60;
+x.ss03 = -100;
+z.ss03 = -60;
+};
+a.ss04 = {
+t = -80;
+};
+b = {
+i = -20;
+};
+b.ss01 = {
+o.ss01 = 30;
+};
+b.ss03 = {
+i = -90;
+};
+c = {
+a = -80;
+e = -70;
+i = 10;
+s = 20;
+t = -50;
+};
+c.ss01 = {
+a.ss01 = -40;
+};
+c.ss02 = {
+s = 40;
+};
+c.ss03 = {
+a.ss03 = -90;
+c.ss03 = -40;
+s = -10;
+};
+d = {
+a = 10;
+a.ss02 = 10;
+a.ss03 = 0;
+e = 40;
+e.ss04 = 40;
+i = 20;
+};
+d.ss01 = {
+i = 20;
+};
+e = {
+n = 10;
+t = -130;
+v = -100;
+};
+e.ss01 = {
+n.ss01 = 10;
+t.ss01 = -80;
+v = -40;
+};
+e.ss02 = {
+c.ss02 = -20;
+g.ss02 = -90;
+l.ss02 = -200;
+n.ss02 = -110;
+r.ss02 = -60;
+s = -100;
+t = -370;
+v = -320;
+};
+e.ss03 = {
+l = -30;
+n.ss03 = -60;
+r = -30;
+s = -70;
+t = -280;
+v = -210;
+};
+e.ss04 = {
+l = 40;
+n = 30;
+v = -70;
+};
+f = {
+o = 30;
+};
+f.ss01 = {
+o.ss01 = -50;
+};
+g = {
+a = -30;
+g = 0;
+};
+g.ss01 = {
+a.ss01 = -80;
+};
+i = {
+a = 20;
+a.ss01 = 20;
+b = 50;
+b.ss01 = 60;
+d = 20;
+j = -180;
+l = 90;
+m = 40;
+m.ss01 = 50;
+m.ss02 = 60;
+m.ss03 = 70;
+n = 60;
+n.ss01 = 20;
+n.ss02 = 20;
+o = 20;
+r = 40;
+t = -10;
+};
+igrave = {
+q = 50;
+};
+j = {
+k = 30;
+};
+l = {
+a = -40;
+a.ss03 = -30;
+e = -30;
+e.ss03 = -40;
+i = 10;
+l = -10;
+p = -20;
+};
+l.ss01 = {
+l.ss01 = -50;
+};
+l.ss02 = {
+e.ss02 = -170;
+l.ss02 = -170;
+o = -30;
+};
+m = {
+p = 20;
+};
+m.ss01 = {
+p.ss01 = -200;
+};
+m.ss02 = {
+p = 20;
+};
+m.ss03 = {
+a.ss03 = -20;
+};
+m.ss04 = {
+a.ss04 = -20;
+e.ss04 = -50;
+};
+n = {
+g = 10;
+t = -60;
+u = 30;
+v = -60;
+};
+n.ss01 = {
+c.ss01 = 20;
+i = 10;
+t.ss01 = -50;
+u = 30;
+};
+n.ss03 = {
+f = -10;
+t = -80;
+u = 20;
+};
+o = {
+c = -20;
+m.ss02 = 10;
+n = 10;
+r = 40;
+r.ss02 = 20;
+t = -50;
+x = -30;
+x.ss03 = -90;
+};
+o.ss01 = {
+n.ss01 = 20;
+t.ss01 = -10;
+};
+p = {
+o = 10;
+};
+q = {
+u = 30;
+};
+quotesingle = {
+A = -230;
+a.ss01 = -160;
+a.ss03 = -280;
+};
+r = {
+a = -100;
+a.ss03 = -270;
+c = -20;
+e = -80;
+e.ss03 = -50;
+i = -70;
+m.ss04 = -150;
+o = -20;
+t = -50;
+};
+r.ss01 = {
+a.ss01 = -90;
+t.ss01 = -50;
+y.ss01 = -130;
+};
+r.ss02 = {
+t = -40;
+};
+s = {
+a.ss01 = -40;
+a.ss02 = -20;
+a.ss03 = -40;
+e.ss03 = -30;
+igrave = 20;
+o = -10;
+p.ss01 = -160;
+s = -20;
+t = -90;
+t.ss01 = -90;
+};
+t = {
+a = -40;
+a.ss03 = -50;
+agrave = -70;
+e.ss03 = -40;
+h = 0;
+o = 10;
+schwa = -10;
+t = -100;
+};
+t.ss01 = {
+a.ss01 = -20;
+agrave = -30;
+h = 10;
+i = -20;
+o.ss01 = 10;
+s = -20;
+t.ss01 = -110;
+};
+u = {
+c.ss03 = -10;
+n = 40;
+n.ss01 = 30;
+n.ss02 = 20;
+};
+v = {
+a = -130;
+a.ss01 = -140;
+a.ss03 = -250;
+a.ss04 = -60;
+e = -130;
+e.ss01 = -150;
+e.ss02 = -80;
+e.ss03 = -100;
+e.ss04 = -20;
+o = -100;
+o.ss01 = -60;
+};
+w = {
+a = -190;
+a.ss02 = -120;
+a.ss03 = -270;
+a.ss04 = -80;
+};
+w.ss01 = {
+a.ss01 = -230;
+};
+x = {
+e = -20;
+};
+x.ss03 = {
+e.ss03 = -140;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+settings = {
+keyboardIncrementHuge = 95;
+};
+unitsPerEm = 2000;
+versionMajor = 1;
+versionMinor = 0;
+}

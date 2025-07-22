@@ -1,0 +1,165 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature aalt {
+# automatic
+feature ss01;
+feature ss02;
+feature ss03;
+feature ss04;
+feature ss05;
+} aalt;
+
+feature ss01 {
+# automatic
+featureNames {
+	name "";
+};
+sub A by A.ss01;
+sub B by B.ss01;
+sub C by C.ss01;
+sub D by D.ss01;
+sub E by E.ss01;
+sub F by F.ss01;
+sub G by G.ss01;
+sub H by H.ss01;
+sub I by I.ss01;
+sub J by J.ss01;
+sub K by K.ss01;
+sub L by L.ss01;
+sub M by M.ss01;
+sub N by N.ss01;
+sub O by O.ss01;
+sub P by P.ss01;
+sub Q by Q.ss01;
+sub R by R.ss01;
+sub S by S.ss01;
+sub T by T.ss01;
+sub U by U.ss01;
+sub V by V.ss01;
+sub W by W.ss01;
+sub X by X.ss01;
+sub Y by Y.ss01;
+sub Z by Z.ss01;
+sub a by a.ss01;
+sub b by b.ss01;
+sub c by c.ss01;
+sub d by d.ss01;
+sub e by e.ss01;
+sub f by f.ss01;
+sub g by g.ss01;
+sub k by k.ss01;
+sub l by l.ss01;
+sub m by m.ss01;
+sub n by n.ss01;
+sub o by o.ss01;
+sub p by p.ss01;
+sub q by q.ss01;
+sub r by r.ss01;
+sub t by t.ss01;
+sub w by w.ss01;
+sub x by x.ss01;
+sub y by y.ss01;
+sub z by z.ss01;
+sub zero by zero.ss01;
+sub two by two.ss01;
+sub six by six.ss01;
+sub seven by seven.ss01;
+} ss01;
+
+feature ss02 {
+# automatic
+featureNames {
+	name "";
+};
+sub A by A.ss02;
+sub B by B.ss02;
+sub C by C.ss02;
+sub E by E.ss02;
+sub F by F.ss02;
+sub H by H.ss02;
+sub I by I.ss02;
+sub M by M.ss02;
+sub N by N.ss02;
+sub O by O.ss02;
+sub Q by Q.ss02;
+sub R by R.ss02;
+sub U by U.ss02;
+sub V by V.ss02;
+sub X by X.ss02;
+sub Y by Y.ss02;
+sub Z by Z.ss02;
+sub a by a.ss02;
+sub b by b.ss02;
+sub c by c.ss02;
+sub e by e.ss02;
+sub g by g.ss02;
+sub k by k.ss02;
+sub l by l.ss02;
+sub m by m.ss02;
+sub n by n.ss02;
+sub r by r.ss02;
+sub x by x.ss02;
+sub y by y.ss02;
+sub z by z.ss02;
+sub zero by zero.ss02;
+} ss02;
+
+feature ss03 {
+# automatic
+featureNames {
+	name "";
+};
+sub A by A.ss03;
+sub C by C.ss03;
+sub E by E.ss03;
+sub F by F.ss03;
+sub H by H.ss03;
+sub I by I.ss03;
+sub M by M.ss03;
+sub Q by Q.ss03;
+sub R by R.ss03;
+sub X by X.ss03;
+sub a by a.ss03;
+sub b by b.ss03;
+sub c by c.ss03;
+sub e by e.ss03;
+sub g by g.ss03;
+sub k by k.ss03;
+sub m by m.ss03;
+sub n by n.ss03;
+sub x by x.ss03;
+sub z by z.ss03;
+} ss03;
+
+feature ss04 {
+# automatic
+featureNames {
+	name "";
+};
+sub A by A.ss04;
+sub C by C.ss04;
+sub E by E.ss04;
+sub I by I.ss04;
+sub M by M.ss04;
+sub Q by Q.ss04;
+sub T by T.ss04;
+sub X by X.ss04;
+sub a by a.ss04;
+sub e by e.ss04;
+sub g by g.ss04;
+sub m by m.ss04;
+} ss04;
+
+feature ss05 {
+# automatic
+featureNames {
+	name "";
+};
+sub A by A.ss05;
+sub C by C.ss05;
+sub E by E.ss05;
+sub g by g.ss05;
+} ss05;
+
