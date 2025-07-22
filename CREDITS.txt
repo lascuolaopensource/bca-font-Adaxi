@@ -1,18 +1,18 @@
 La Scuola Open Source - Bari (Italy) - www.lascuolaopensource.xyz
 
-Adaxì
+Adaxi
 Font designed during "Bari Città Aperta" XYZ workshop, 8 – 17 July 2025. 
 
 -----
 
-Tutors
+Tutors [A-Z order]
 
 Alberto Guerra
 Alessandro Tartaglia
 
 -----
 
-Glyphs Designers & Contributors
+Glyphs Designers & Contributors [A-Z order]
 
 Giovanni Abbatepaolo
 Antonella Barletta
@@ -27,12 +27,3 @@ Marco Pagan
 Sofia Paz
 Albachiara Savino
 Luca Santarelli
-
-
------
-
-Contributors / Bug Fixers
-
-[…]
-
------
